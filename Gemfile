@@ -4,7 +4,7 @@ gemspec
 
 # NOTE: Not adding appraisal here, because it should not be run against this Gemfile.
 #       See: `appraisal_root.gemfile`
-gem 'rails', '>= 6.1'
+gem 'rails', '>= 8.0.5.1'
 gem 'pry'
 gem 'rspec', '~> 3.13'
 gem 'rspec-rails'
