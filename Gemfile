@@ -4,10 +4,10 @@ gemspec
 
 # NOTE: Not adding appraisal here, because it should not be run against this Gemfile.
 #       See: `appraisal_root.gemfile`
-gem 'rails', '>= 6.1'
+gem 'rails', '>= 8.0.2'
 gem 'pry'
 gem 'rspec', '~> 3.13'
-gem 'rspec-rails'
+gem 'rspec-rails', '>= 7.1.1'
 gem 'rake', '>= 13'
 gem 'rubocop', '~> 1.69', '>= 1.69.2'
 gem 'rubocop-packaging', '~> 0.5', '>= 0.5.2'
